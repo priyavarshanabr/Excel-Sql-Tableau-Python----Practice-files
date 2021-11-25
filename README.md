@@ -1,2 +1,6 @@
-# analysis-tools-Practice-files
---> Tracker Spreadsheet - A simple tracker with Excel which includes tables, simple data validation rules and conditional formatting to monitor a list of items, progress of a project or a list of to-dos.
+# Practice --- Excel-SQL-Tableau-Python
+• Tracker Spreadsheet - A simple Excel tracker which is useful for entry tracking in an organization with various departments. It categorizes persons from types(Full time, Temp, Visitor)and SOP status(READ, READ&SIGNED, NOT STARTED). This includes,
+
+  - Excel table
+  - Data validation rules 
+  - Conditional formatting - to monitor a list of items, progress of a project or a list of to-dos.
