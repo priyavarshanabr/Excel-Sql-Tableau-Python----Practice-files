@@ -4,6 +4,7 @@
    - Excel table
    - Data validation rules
    - Conditional formatting - to monitor a list of items, progress of a project or a list of to-dos.
+
  • Top 3 Employee Selection - A BI dashboard to display 2 years of office supplies sales under different regions. Based on the prepared chart top 3 employee selection is made in supply department for employee performance analysis. This includes,
  
     - Excel formulas
